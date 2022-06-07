@@ -1,0 +1,10 @@
+.partners {
+}
+.partners__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}

@@ -1,2 +1,50 @@
 .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1168px;
+  width: 100%;
+  gap: 40px;
+  padding: 20px 0 20px;
+}
+.header__logo {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+.header__logo:hover {
+  opacity: 0.8;
+}
+.header__profile {
+  display: flex;
+  align-items: center;
+}
+.header__profile-name {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 0.01em;
+  text-align: right;
+  margin: 0 10px 0 19px;
+  padding: 0;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+.header__profile-name:hover {
+  opacity: 0.8;
+}
+.header__profile-avatar {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+.header__profile-avatar:hover {
+  opacity: 0.8;
 }

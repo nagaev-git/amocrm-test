@@ -1,6 +1,6 @@
 import "./Header.css";
 import SearchForm from "../SearchForm/SearchForm";
-import logo from "../../images/digital_currency_logo.svg";
+import logo from "../../images/header_logo.svg";
 import avatar from "../../images/avatar.png";
 
 export default function Header() {
