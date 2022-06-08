@@ -33,3 +33,12 @@
 .search-form_input::placeholder {
   color: #bbc4d6;
 }
+
+@media (max-width: 518px) {
+  .search-form__input-fields {
+    border-radius: 0;
+    border: none;
+    border-top: 1px solid #ebebf1;
+    padding: 8px 20px;
+  }
+}
