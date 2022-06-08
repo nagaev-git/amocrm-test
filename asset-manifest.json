@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/amocrm-test/static/css/main.8658259f.css",
+    "main.js": "/amocrm-test/static/js/main.2f94c2ae.js",
+    "static/media/65_logo.svg": "/amocrm-test/static/media/65_logo.11f96e840151cf8e7289ebf47c2692cd.svg",
+    "static/media/mxm_logo.svg": "/amocrm-test/static/media/mxm_logo.bbfad8ad96dc30cd818e56df5aea687c.svg",
+    "static/media/Robotomedium.woff": "/amocrm-test/static/media/Robotomedium.5673e7a07239f4785325.woff",
+    "static/media/Roboto.woff": "/amocrm-test/static/media/Roboto.59d18e163bfcd0607572.woff",
+    "static/media/Robotomedium.woff2": "/amocrm-test/static/media/Robotomedium.76cb645b72a0083e239f.woff2",
+    "static/media/Roboto.woff2": "/amocrm-test/static/media/Roboto.806e04d8241d87f99a68.woff2",
+    "static/media/57_logo.svg": "/amocrm-test/static/media/57_logo.1d6440e4d73cefbf380c4d123d7408b5.svg",
+    "static/media/ftt_logo.svg": "/amocrm-test/static/media/ftt_logo.fed97ac511ac824ecac6cfe24316ed22.svg",
+    "static/media/upp_logo.svg": "/amocrm-test/static/media/upp_logo.a9d3582b766e1a81209c2a9346235310.svg",
+    "static/media/ode_logo.svg": "/amocrm-test/static/media/ode_logo.09f8c1c71dc4c98e9cf6255ae15822a4.svg",
+    "static/media/mwc_logo.svg": "/amocrm-test/static/media/mwc_logo.59627518276fcd301af0dd10f6f5c779.svg",
+    "static/media/header_logo.svg": "/amocrm-test/static/media/header_logo.4f47a4b841b430fbdaecec23b7326646.svg",
+    "static/media/profile_pic.svg": "/amocrm-test/static/media/profile_pic.7309c4d04133c31897effce11ffd6ac5.svg",
+    "index.html": "/amocrm-test/index.html",
+    "static/media/search_pic.svg": "/amocrm-test/static/media/search_pic.689e6ef34922954b2621.svg",
+    "main.8658259f.css.map": "/amocrm-test/static/css/main.8658259f.css.map",
+    "main.2f94c2ae.js.map": "/amocrm-test/static/js/main.2f94c2ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8658259f.css",
+    "static/js/main.2f94c2ae.js"
+  ]
+}
