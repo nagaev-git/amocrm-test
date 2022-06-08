@@ -2,11 +2,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 120px;
-  width: 270px;
+  height: 118px;
+  width: 268px;
   border-radius: 5px;
   cursor: pointer;
   transition: box-shadow 0.3s ease;
+  border: 1px solid #ebebf1;
 }
 .partner:hover {
   box-shadow: -3px 0px 40px rgba(0, 0, 0, 0.1),
@@ -16,4 +17,17 @@
   width: 60px;
   height: 60px;
   object-fit: cover;
+}
+
+@media (max-width: 1188px) {
+  .partner {
+    width: 227px;
+  }
+}
+
+@media (max-width: 518px) {
+  .partner {
+    height: 138px;
+    width: 333px;
+  }
 }

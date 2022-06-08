@@ -2,10 +2,11 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1168px;
-  width: 100%;
+  max-width: 1440px;
+  width: calc(100% - 274px);
   gap: 40px;
-  padding: 20px 0 20px;
+  padding: 20px 137px 20px;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.05);
 }
 .header__logo {
   width: 40px;
@@ -47,4 +48,11 @@
 }
 .header__profile-avatar:hover {
   opacity: 0.8;
+}
+
+@media (max-width: 1188px) {
+  .header {
+    width: calc(100% - 40px);
+    padding: 20px 20px 20px;
+  }
 }

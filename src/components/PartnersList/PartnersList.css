@@ -8,3 +8,21 @@
   padding: 0;
   margin: 0;
 }
+
+@media (max-width: 1188px) {
+  .partners__list {
+    gap: 20px;
+  }
+}
+
+@media (max-width: 1014px) {
+  .partners__list:last-child {
+    padding-bottom: 73px;
+  }
+}
+
+@media (max-width: 766px) {
+  .partners__list {
+    justify-content: center;
+  }
+}

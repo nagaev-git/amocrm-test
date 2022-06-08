@@ -14,3 +14,19 @@
   margin: 0;
   padding: 70px 0 30px;
 }
+
+@media (max-width: 1188px) {
+  .main {
+    width: calc(100% - 40px);
+  }
+  .main__title {
+    font-size: 28px;
+    line-height: 45px;
+  }
+}
+
+@media (max-width: 518px) {
+  .main__title {
+    padding: 60px 0 30px;
+  }
+}
